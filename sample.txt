@@ -1,3 +1,5 @@
 Name: Krishna Nandana  
 branch:cs
 age: 18
+email id: krishnanandanap09@gmail.com
+instagram: krishna._.nandana
