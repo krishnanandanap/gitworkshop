@@ -1,3 +1,4 @@
 
 Name: Krishna Nandana 
 age: 18
+college: mec
